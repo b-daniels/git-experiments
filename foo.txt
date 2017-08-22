@@ -1,3 +1,2 @@
 Another change to test head commits.
-
-updating pull request
+Another change to test head commits. Merged with dummy1.
